@@ -1,0 +1,23 @@
+{
+  "name": "pweb",
+  "version": "1.0.0",
+  "description": "Website hosting on Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DXH30/pweb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DXH30/pweb/issues"
+  },
+  "homepage": "https://github.com/DXH30/pweb#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "reactjs": "^1.0.0"
+  }
+}
